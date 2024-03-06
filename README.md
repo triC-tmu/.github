@@ -20,6 +20,3 @@
   <a href="#faq">FAQ</a>
 </p>
 
-<div align="center">
-  ![Badge](https://cp-logo.vercel.app/atcoder/Ayutaso)](https://atcoder.jp/users/Ayutaso) 
-</div>
