@@ -14,9 +14,10 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/triC_PR">
+  <a href="https://twitter.com/triC_PR">
     <img alt="Twitter: triC_PR" src="https://img.shields.io/twitter/follow/triC_PR.svg?style=social" target="_blank" />
   </a>
+  <img src="https://discordapp.com/api/guilds/679637170398822455/widget.png?style=shield" alt="Discord Shield"/>
 </p>
 
 <p align="center">
