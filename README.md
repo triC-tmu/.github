@@ -22,11 +22,50 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#activity">Daily Activity</a> •
+  <a href="#activity">Activity</a> •
   <a href="#achievements">Achievements</a> •
-  <a href="#member">Introduce Member</a> •
-  <a href="#join">Join Us</a> •
-  <a href="#contact">Contact Us</a> •
+  <a href="#introduce-member">Introduce Member</a> •
+  <a href="#join-us">Join Us</a> •
+  <a href="#contact-us">Contact Us</a> •
   <a href="#faq">FAQ</a>
 </p>
+
+## 📌About📌
+triC(トリック)は東京都立大学の競技プログラミングサークルです。
+triCは競技プログラミングに興味のある学生が集まったコミュニティで、現在はB1からM2までの30人ほどが所属しています。
+hoge-hoge-fuga-fuga
+
+
+## 🎓Activity🎓
+日々の活動は
+
+## 🏆Achievements🏆
+triCではICPCという大会の参加に力をいれており、結成間もないサークルながらアジア地区大会に3回出場しています！
+- ICPC 2023 Asia Yokohama Reagional 出場
+- PG Battle 2023 アシスト賞 受賞
+- ICPC 2022 Asia Yokohama Reagional 出場
+- ICPC 2019 Asia Yokohama Reagional 出場
+
+## 📕Introduce Member📕
+メンバー紹介(個人の活動紹介とか？Twitter張るとか?)
+
+## 📣Join Us📣
+[X公式アカウント](https://twitter.com/triC_PR)のDMまでご連絡ください！
+
+## 📮Contact Us📮
+[X公式アカウント](https://twitter.com/triC_PR)のDMまでご連絡ください！
+
+## 🏷️FAQ🏷️
+
+#### Q. 競技プログラミングの経験がないのですが、参加しても大丈夫ですか？
+
+A. はい。
+
+#### Q. 活動日や活動場所は？
+
+A. はい。
+
+#### Q. 参加費は必要ですか？
+
+A. いいえ。
 
