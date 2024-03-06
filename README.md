@@ -1,7 +1,7 @@
 ![1](https://github.com/triC-tmu/triC-tmu/assets/56724676/3d04433a-68db-4b25-a839-dc5aeceead32)
 <h1 align="center">triC / TMU 競技プログラミングサークル</h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">東京都立大学 競技プログラミングサークル <a href="http://electron.atom.io" target="_blank">triC</a>.</h4>
 
 <p align="center">
   <a href="https://atcoder.jp/users/igeee?contestType=algo"><img src="https://badgen.org/img/atcoder/igeee/rating/algorithm?style=for-the-badge" alt="Rating" /></a>
