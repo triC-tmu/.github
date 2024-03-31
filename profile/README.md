@@ -79,9 +79,6 @@ triCではICPCという大会に毎年参加しており、結成間もないサ
 - ICPC 2019 Asia Yokohama Reagional 出場
 
 
-## 📕Introduce Member📕
-メンバー紹介(個人の活動紹介とか？Twitter張るとか?)
-
 ## 📣Join Us📣
 triCに入りたい！と思った方はぜひその旨
 [X公式アカウント](https://twitter.com/triC_PR)のDMまでご連絡ください！
