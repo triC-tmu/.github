@@ -73,6 +73,7 @@ triCは競技プログラミングに興味のある学生が集まったコミ�
 <img src="https://github.com/triC-tmu/triC-tmu/assets/56724676/bc9dd6b8-2701-4732-a739-4783458de23c" align="right" width="300"/>
 
 triCではICPCという大会に毎年参加しており、結成間もないサークルながらアジア地区大会に3回出場しています！(右: 昨年のICPCアジア地区大会の様子)
+- ICPC 2024 Asia Yokohama Reagional 出場
 - ICPC 2023 Asia Yokohama Reagional 出場
 - PG Battle 2023 アシスト賞 受賞
 - ICPC 2022 Asia Yokohama Reagional 出場
