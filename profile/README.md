@@ -56,7 +56,7 @@ triCは競技プログラミングに興味のある学生が集まったコミ�
 
 ### 競技プログラミングとは？
 
-詳しくは[こちら]()をご覧ください！
+詳しくは[こちら](https://info.atcoder.jp/overview/about/competitive)をご覧ください！
 
 ## 🎓Activity🎓
 日々の活動としてはVirtural Contestの開催と不定期の勉強会をしています。
